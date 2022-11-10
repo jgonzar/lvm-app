@@ -1,0 +1,38 @@
+{
+  "name": "lvm-app",
+  "version": "1.0.0",
+  "description": "Ecommerce Art App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgonzar/lvm-app.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "art",
+    "react",
+    "mobile-app"
+  ],
+  "author": "Jose Angel Gonzalez, Manuel Gil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgonzar/lvm-app/issues"
+  },
+  "homepage": "https://github.com/jgonzar/lvm-app#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^9.1.0",
+    "env": "^0.0.2",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
